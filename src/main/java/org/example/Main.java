@@ -8,7 +8,11 @@ public class Main {
         WordCounter wordCounter = new WordCounter();
 
 
+        //count words from array
         System.out.println(wordCounter.countWords(words, 't'));
+
+        //count words from phrase
+        System.out.println(wordCounter.countWordsInString(phrase, 't'));
         System.out.println(wordCounter.countWords(phrase.split(" "), 't'));
 
     }
