@@ -8,6 +8,7 @@ public class Main {
         WordCounter wordCounter = new WordCounter();
 
 
+        System.out.println("Display the result from the phrase: The cat in the hat");
         //count words from array
         System.out.println(wordCounter.countWords(words, 't'));
 
