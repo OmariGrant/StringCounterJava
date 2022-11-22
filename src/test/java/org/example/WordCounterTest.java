@@ -14,7 +14,7 @@ class WordCounterTest {
     void GivenCatInHatArray_Return2withCharacterT() {
         String[] words = {"The", "cat", "in", "the", "hat"};
         WordCounter wordCounter = new WordCounter();
-        assertEquals(wordCounter.countWords(words, 't'), 2);
+        assertEquals(2, wordCounter.countWords(words, 't'));
     }
 
     @ParameterizedTest

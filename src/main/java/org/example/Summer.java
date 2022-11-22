@@ -7,6 +7,12 @@ public class Summer {
         System.out.println(summer.sumArray(myInts));
     }
     public int sumArray(int[] theInts){
-        return 0;
+        int sum = 0;
+
+        for (int val: theInts){
+            sum = sum + val;
+        }
+
+        return sum;
     }
 }

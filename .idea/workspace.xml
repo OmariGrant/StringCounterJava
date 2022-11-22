@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8306d02-800d-4a9c-8dc1-b83714d44617" name="Changes" comment="Implemented counting methods">
+    <list default="true" id="f8306d02-800d-4a9c-8dc1-b83714d44617" name="Changes" comment="Completed tests for methods">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SummerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Summer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Summer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/WordCounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/WordCounterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -71,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669145563589</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed tests for methods">
+      <created>1669146559069</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669146559069</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented counting methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented counting methods" />
+    <MESSAGE value="Completed tests for methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed tests for methods" />
   </component>
 </project>

@@ -33,3 +33,23 @@ would return 2;
 
 NOTE countWordsInString can call the countWords method you made earlier.
 
+## Summer Task
+
+Given the starting class here:
+
+```java
+
+
+public class Summer {
+public static void main(String[] args) {
+int[] myInts = {1, 2, 3, 4, 5};
+Summer summer = new Summer();
+System.out.println(summer.sumArray(myInts));
+}
+public int sumArray(int[] theInts){
+return 0;
+}
+}
+```
+1. Complete the method which is going to calculate the sum of integers.
+1. Create some tests for this method using junit.
